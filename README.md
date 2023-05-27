@@ -1,16 +1,17 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang ="en">
 
-<!--
-**yhwebhello/yhwebhello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<body>
 
-Here are some ideas to get you started:
+  <h1>Hey! Nice to see you.</h1>
+ <p>Welcome to my page! I'm Younghee:smile: <br>
+   I am currently enrolled as a sophomore in the Department of <b>Artificial Intelligence</b>:robot: from Seoul, Korea.</p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub followers](https://img.shields.io/github/followers/yhwebhello?style=social)
+
+
+
+
+
+</body>
+</html>
