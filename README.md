@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on [HSP , AI contests](https://hsportal.hansung.ac.kr/ko/program/all/view/11161)
 
-- 📝 I regularly write articles on [https://blog.naver.com/thistime0317](https://blog.naver.com/thistime0317)
+- 📝 I regularly write articles on [https://blog.naver.com/thistime0317](https://djkdjkf)
 
 - 💬 Ask me about **Machine Learning, Deep Learing.**
 
